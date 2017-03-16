@@ -7,7 +7,11 @@
 
 [1002. 写出这个数 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1002.%20%E5%86%99%E5%87%BA%E8%BF%99%E4%B8%AA%E6%95%B0%20(20).md) 
 
+[1004. 成绩排名 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1004.%20%E6%88%90%E7%BB%A9%E6%8E%92%E5%90%8D%20(20).md) 
+
 [1006. 换个格式输出整数 (15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1006.%20%E6%8D%A2%E4%B8%AA%E6%A0%BC%E5%BC%8F%E8%BE%93%E5%87%BA%E6%95%B4%E6%95%B0%20(15).md) 
+
+[1009. 说反话 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1009.%20%E8%AF%B4%E5%8F%8D%E8%AF%9D%20(20).md) 
 
 [1011. A+B和C (15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1011.%20A%2BB%E5%92%8CC%20(15).md) 
 
