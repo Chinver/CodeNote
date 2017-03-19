@@ -19,6 +19,8 @@
 
 [1016. 部分A+B (15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1016.%20%E9%83%A8%E5%88%86A%2BB%20(15).md) 
 
+[1041. 考试座位号(15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1041.%20%E8%80%83%E8%AF%95%E5%BA%A7%E4%BD%8D%E5%8F%B7(15).md) 
+
 [1043. 输出PATest(20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1043.%20%E8%BE%93%E5%87%BAPATest(20).md) 
 
 [1046. 划拳(15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1046.%20%E5%88%92%E6%8B%B3(15).md) 
@@ -27,4 +29,7 @@
 
 [1056. 组合数的和(15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1056.%20%E7%BB%84%E5%90%88%E6%95%B0%E7%9A%84%E5%92%8C(15).md) 
 
-[1061. 判断题(15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1061.%20%E5%88%A4%E6%96%AD%E9%A2%98(15).md) 
+[1061. 判断题(15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1061.%20%E5%88%A4%E6%96%AD%E9%A2%98(15).md)
+
+[1063. 计算谱半径(20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1063.%20%E8%AE%A1%E7%AE%97%E8%B0%B1%E5%8D%8A%E5%BE%84(20).md)
+
