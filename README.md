@@ -19,7 +19,7 @@
 
 [1016. 部分A+B (15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1016.%20%E9%83%A8%E5%88%86A%2BB%20(15).md) 
 
-[1037. 在霍格沃茨找零钱(20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1037.%20%E5%9C%A8%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E6%89%BE%E9%9B%B6%E9%92%B1%EF%BC%8820%EF%BC%89.md) 
+[1037. 在霍格沃茨找零钱(20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1037.%20%E5%9C%A8%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E6%89%BE%E9%9B%B6%E9%92%B1(20).md) 
 
 [1041. 考试座位号(15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1041.%20%E8%80%83%E8%AF%95%E5%BA%A7%E4%BD%8D%E5%8F%B7(15).md) 
 
