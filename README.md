@@ -17,6 +17,8 @@
 
 [1012. 数字分类 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1012.%20%E6%95%B0%E5%AD%97%E5%88%86%E7%B1%BB%20(20).md) 
 
+[1013. 数素数 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1013.%20%E6%95%B0%E7%B4%A0%E6%95%B0%20(20).md) 
+
 [1016. 部分A+B (15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1016.%20%E9%83%A8%E5%88%86A%2BB%20(15).md) 
 
 [1017. A除以B (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1017.%20A%E9%99%A4%E4%BB%A5B%20(20).md)
@@ -36,6 +38,8 @@
 [1036. 跟奥巴马一起编程(15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1036.%20%E8%B7%9F%E5%A5%A5%E5%B7%B4%E9%A9%AC%E4%B8%80%E8%B5%B7%E7%BC%96%E7%A8%8B(15).md) 
 
 [1037. 在霍格沃茨找零钱(20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1037.%20%E5%9C%A8%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E6%89%BE%E9%9B%B6%E9%92%B1(20).md) 
+
+[1038. 统计同成绩学生(20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1038.%20%E7%BB%9F%E8%AE%A1%E5%90%8C%E6%88%90%E7%BB%A9%E5%AD%A6%E7%94%9F(20).md) 
 
 [1041. 考试座位号(15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1041.%20%E8%80%83%E8%AF%95%E5%BA%A7%E4%BD%8D%E5%8F%B7(15).md) 
 
