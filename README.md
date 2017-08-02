@@ -31,7 +31,7 @@
 
 [1029. 旧键盘 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1029.%20%E6%97%A7%E9%94%AE%E7%9B%98%20(20).md) 
 
-[1031. 查验身份证 (15)]https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1031.%20%E6%9F%A5%E9%AA%8C%E8%BA%AB%E4%BB%BD%E8%AF%81%20(15).md) 
+[1031. 查验身份证 (15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1031.%20%E6%9F%A5%E9%AA%8C%E8%BA%AB%E4%BB%BD%E8%AF%81%20(15).md) 
 
 [1032. 挖掘机技术哪家强 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1032.%20%E6%8C%96%E6%8E%98%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%93%AA%E5%AE%B6%E5%BC%BA%20(20).md) 
 
