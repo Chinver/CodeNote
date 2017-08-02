@@ -11,6 +11,8 @@
 
 [1006. 换个格式输出整数 (15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1006.%20%E6%8D%A2%E4%B8%AA%E6%A0%BC%E5%BC%8F%E8%BE%93%E5%87%BA%E6%95%B4%E6%95%B0%20(15).md) 
 
+[1008. 数组元素循环右移问题 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1008.%20%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E5%BE%AA%E7%8E%AF%E5%8F%B3%E7%A7%BB%E9%97%AE%E9%A2%98%20(20).md) 
+
 [1009. 说反话 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1009.%20%E8%AF%B4%E5%8F%8D%E8%AF%9D%20(20).md) 
 
 [1011. A+B和C (15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1011.%20A%2BB%E5%92%8CC%20(15).md) 
@@ -26,6 +28,8 @@
 [1018. 锤子剪刀布 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1018.%20%E9%94%A4%E5%AD%90%E5%89%AA%E5%88%80%E5%B8%83%20(20).md)
 
 [1021. 个位数统计 (15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1021.%20%E4%B8%AA%E4%BD%8D%E6%95%B0%E7%BB%9F%E8%AE%A1%20(15).md) 
+
+[1023. 组个最小数 (20)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1023.%20%E7%BB%84%E4%B8%AA%E6%9C%80%E5%B0%8F%E6%95%B0%20(20).md) 
 
 [1026. 程序运行时间 (15)](https://github.com/Chinver/CodeNote/blob/master/PAT/Basic%20Level/1026.%20%E7%A8%8B%E5%BA%8F%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4%20(15).md) 
 
